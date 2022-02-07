@@ -1,8 +1,8 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" heigth="100" width="100" alt="C++">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" heigth="100" width="100" alt="C++">
 </p>
 
-# Sistema desenvolvido em C++
+# Sistema desenvolvido em C#
 
 ### Software para a geração do Código de Vinculação do SAT
 <br />
